@@ -130,5 +130,7 @@ button:hover{
    .container{
         background-color:white;
     }
-    
+    body{
+        background-color:white;
+        }
 }
