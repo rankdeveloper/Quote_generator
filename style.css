@@ -127,4 +127,8 @@ button:hover{
     height: 7vh;
     margin-top:1.5rem;
   }
+    body{
+        background-color:white;
+    }
+    
 }
